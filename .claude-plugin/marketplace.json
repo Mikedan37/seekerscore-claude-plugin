@@ -1,0 +1,15 @@
+{
+  "name": "seekerscore",
+  "owner": {
+    "name": "Seeker",
+    "email": "support@seekerscore.com"
+  },
+  "plugins": [
+    {
+      "name": "seekerscore",
+      "source": "./",
+      "description": "Match your résumé to live jobs and check it against a job description (read-only)."
+    }
+  ],
+  "description": "Seeker (seekerscore.com): match a résumé to live jobs and check it against a job description, read-only."
+}
